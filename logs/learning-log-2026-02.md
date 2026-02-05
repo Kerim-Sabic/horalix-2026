@@ -19,3 +19,29 @@
 
 ---
 
+
+## 2026-02-05 22:44 - List comprehensions
+
+### Key Concepts
+
+- How list comprehensions affects performance in production
+- Best practices for implementing list comprehensions
+- How list comprehensions affects performance in production
+
+### Code Example
+
+```
+// Example: list comprehensions
+const data = { id: 1, name: 'test' };
+const result = process(data);
+console.log(result);
+```
+
+### Notes
+
+Struggling with list comprehensions - might need to find a different tutorial or ask for help.
+
+*Context: Documentation updates*
+
+---
+
