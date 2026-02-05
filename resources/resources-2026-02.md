@@ -14,3 +14,20 @@ Just had a breakthrough with clean code! The key insight was understanding the f
 
 ---
 
+
+## 2026-02-05 - Flask routing Resources
+
+### Documentation
+
+- [Flask routing Best Practices for 2024](https://readthedocs.io/examples-404)
+  - Comprehensive guide covering Flask routing in depth.
+  - Added: 22:46
+
+### Notes
+
+Found a great resource on Flask routing. Added to bookmarks for later.
+
+*Context: Adding new functionality*
+
+---
+
