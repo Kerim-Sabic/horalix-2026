@@ -22,6 +22,29 @@
 
 ## 2026-02-05 22:44 - List comprehensions
 
+## 2026-02-05 22:45 - Reflection: Authorization
+
+### What I learned:
+
+authorization is more nuanced than I initially thought. There's depth here.
+
+### What worked well:
+
+- Breaking down authorization into smaller parts helped understanding significantly.
+
+### What could be improved:
+
+- Spend more time on authorization fundamentals before moving to advanced topics.
+
+### Resources used:
+
+- https://medium.com/reference-464
+
+*Context: Documentation updates*
+
+---
+
+
 ### Key Concepts
 
 - How list comprehensions affects performance in production
