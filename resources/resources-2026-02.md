@@ -31,3 +31,19 @@ Found a great resource on Flask routing. Added to bookmarks for later.
 
 ---
 
+## 2026-02-05 - Flask routing Resources
+
+### Documentation
+
+- [Flask routing Tutorial - Step by Step](https://readthedocs.io/docs-209)
+  - Comprehensive guide covering Flask routing in depth.
+  - Added: 23:09
+
+### Notes
+
+Need to review this section again - Flask routing is more complex than expected.
+
+*Context: Maintenance tasks*
+
+---
+
