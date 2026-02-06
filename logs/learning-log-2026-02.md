@@ -71,3 +71,28 @@ Struggling with list comprehensions - might need to find a different tutorial or
 
 
 // Refactored: 2026-02-05 23:09
+## 2026-02-06 11:54 - Load balancing
+
+### Key Concepts
+
+- Trade-offs to consider with load balancing
+- Understanding the core principles of load balancing
+- Trade-offs to consider with load balancing
+
+### Code Example
+
+```
+// Example: load balancing
+const data = { id: 1, name: 'test' };
+const result = process(data);
+console.log(result);
+```
+
+### Notes
+
+Just had a breakthrough with load balancing! The key insight was understanding the fundamentals first.
+
+*Context: Adding new functionality*
+
+---
+
