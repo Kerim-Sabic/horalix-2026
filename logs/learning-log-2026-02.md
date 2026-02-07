@@ -138,3 +138,24 @@ Just had a breakthrough with load balancing! The key insight was understanding t
 
 ---
 
+## 2026-02-07 22:13 - Plan: Web security
+
+### Goals for this week:
+
+- [ ] Teach someone else about web security (best way to learn)
+- [ ] Write a technical blog post about web security
+- [ ] Master web security basics thoroughly
+
+### Time estimate:
+
+- 3 hours
+
+### Resources to check:
+
+- https://dev.to/examples-586
+- https://egghead.io/examples-87
+
+*Context: Adding new functionality*
+
+---
+
