@@ -117,3 +117,24 @@ Just had a breakthrough with load balancing! The key insight was understanding t
 
 ---
 
+## 2026-02-07 22:09 - Plan: Design patterns
+
+### Goals for this week:
+
+- [ ] Teach someone else about design patterns (best way to learn)
+- [ ] Write a technical blog post about design patterns
+- [ ] Teach someone else about design patterns (best way to learn)
+
+### Time estimate:
+
+- 2 hours
+
+### Resources to check:
+
+- https://dockerhub.com/tutorial-166
+- https://github.com/api-528
+
+*Context: Adding new functionality*
+
+---
+
