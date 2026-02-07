@@ -1,3 +1,30 @@
+## 2026-02-07 22:13 - Generators
+
+### Key Concepts
+
+- Trade-offs to consider with generators
+- Advanced techniques for mastering generators
+- Advanced techniques for mastering generators
+
+### Code Example
+
+```
+// Example: generators
+const data = { id: 1, name: 'test' };
+const result = process(data);
+console.log(result);
+```
+
+### Notes
+
+Found a great resource on generators. Added to bookmarks for later.
+
+*Context: Adding new functionality*
+
+---
+
+
+
 ## 2026-02-05 22:44 - Progress Update: Refactoring techniques
 
 **Progress:** 56% complete
