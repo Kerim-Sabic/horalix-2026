@@ -47,3 +47,19 @@ Need to review this section again - Flask routing is more complex than expected.
 
 ---
 
+## 2026-02-08 - Array methods Resources
+
+### Tool
+
+- [Array methods Tutorial - Step by Step](https://dockerhub.com/guide-812)
+  - Clear tutorial on array methods fundamentals for beginners.
+  - Added: 15:30
+
+### Notes
+
+Making good progress on array methods. Should practice more examples.
+
+*Context: Adding new functionality*
+
+---
+
